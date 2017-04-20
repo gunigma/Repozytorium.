@@ -2,7 +2,7 @@
 
 using namespace std; //no hej ^^
 
-int main(void)
+int main(void) //bede pierwsza
 {
     int t,l,c;
     cin >> t;
