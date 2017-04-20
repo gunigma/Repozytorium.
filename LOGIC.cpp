@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; //nr.1
 
 
 int main(void)                                              //      MAIN
