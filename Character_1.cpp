@@ -7,7 +7,7 @@ int main(void)
     int t,l,c;
     cin >> t;
 
-    for (int i=0; i<t; i++)
+    for (int i=0; i<t; i++) //komentarz dla Pawełka ;*
     {
         cin >> l;
         cin >> c;
