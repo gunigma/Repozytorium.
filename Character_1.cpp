@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; //no hej ^^
 
 int main(void)
 {
